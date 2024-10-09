@@ -1,6 +1,6 @@
 # 🔍 Bitcoin Price Prediction Project
 
-This project aims to predict the future prices of Bitcoin using machine learning models. Initially, various traditional regression models were tested, including Linear Regression, KNN, Random Forest, and XGBoost. However, due to the sequential nature of the data and temporal dependencies, these models did not perform well. Therefore, the focus shifted to a time-series-based approach using an LSTM (Long Short-Term Memory) model. 📈
+This project aims to predict the future prices of Bitcoin using machine learning models. Initially, various traditional regression models were tested, including Linear Regression, KNN, Random Forest, and XGBoost. However, due to the sequential nature of the data and temporal dependencies, these models did not perform well. Therefore, the focus shifted to a time-series-based approach using an LSTM (Long Short-Term Memory) model.
 
 ## 🚀 Why Time-Lagging Was Used
 
