@@ -19,7 +19,7 @@ The model was evaluated using **Mean Squared Error (MSE)** and visualized using 
 
 - **Mean Squared Error (MSE)**: The LSTM model's MSE was lower compared to traditional regression models, demonstrating its effectiveness for this problem.
 - The predictions generally followed the trend but underestimated sharp price changes, indicating a need for further tuning or additional features.
-![Bitcoin Price Prediction](https://example.com/bitcoin_prediction.png)
+![Bitcoin Price Prediction](https://github.com/nimamot/Price_prediction/blob/main/LSTM)
 
 
 ## 🔧 Next Steps
